@@ -4,11 +4,8 @@
 ---
 
 ## 👨‍💻 Team
-
-- Harsh Lakyan (102203215)  
 - Aditya Tejpal (102203330)  
 - Pankaj Sheokhand (102203410)  
-- Arpit Aggarwal (102203872)  
 
 **Batch:** CPG-142  
 **Mentor:** Dr. Sunita Gharwal (Associate Professor)
@@ -165,33 +162,59 @@ lib
 ````
 
 ---
+---
 
 ## 📸 Screenshots
 
-Add your screenshots here:
+Explore the DeepLogix mobile interface and features:
 
-```
-/assets/screenshots/...
-```
+<p align="center">
+  <img src="assets/1.png" width="22%" />
+  <img src="assets/2.png" width="22%" />
+  <img src="assets/3.png" width="22%" />
+  <img src="assets/4.png" width="22%" />
+</p>
 
 ---
 
 ## 🎥 Demo Video
 
-Add your demo video link here:
+Get a quick look at DeepLogix in action:
 
-[Watch Demo](your_video_link_here)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=tLPJ7V5Hobc" target="_blank">
+    <img src="https://img.shields.io/badge/▶️%20Watch%20Demo-DeepLogix-blue?style=for-the-badge&logo=google-drive" />
+  </a>
+</p>
 
 ---
 
 ## 📄 Documentation
 
-Add detailed documentation here:
+Access detailed project documentation and presentation materials:
 
-```
-/docs/...
-```
+<p align="center">
+  <a href="assets/deeplogix_project_report.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/📘%20Project%20Report-View%20PDF-red?style=for-the-badge&logo=adobeacrobatreader" />
+  </a>
+  
+---
 
+## 🖼️ Project Poster
+
+<p align="center">
+  <a href="assets/Deeplogix_poster.pdf" target="_blank">
+    <img src="assets/Deeplogix_poster.png" alt="DeepLogix Poster" width="80%">
+  </a>
+</p>
+
+<p align="center">
+  📄 Click the poster to view full PDF
+</p>
+
+---
+
+---
 ---
 
 ## 🔮 Future Scope
@@ -211,21 +234,11 @@ Feel free to fork, improve, and submit pull requests.
 
 ---
 
-## 📜 License
+## 📄 License
 
-This project is for academic purposes.
-(Add license here if needed)
-
-```
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-If you want next level 🔥:
-- :contentReference[oaicite:0]{index=0}  
-- :contentReference[oaicite:1]{index=1}  
-- :contentReference[oaicite:2]{index=2}
-```
-
 ## 🧠 Clean Architecture Overview
 
 DeepLogix follows a modular and layered architecture to ensure **scalability, maintainability, and separation of concerns**.
